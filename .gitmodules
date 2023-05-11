@@ -1,3 +1,6 @@
 [submodule "Twitter-towers"]
 	path = Twitter-towers
 	url = https://github.com/ChanyR/Twitter-towers.git
+[submodule "Corona-management-system"]
+	path = Corona-management-system
+	url = https://github.com/ChanyR/Corona-management-system.git
